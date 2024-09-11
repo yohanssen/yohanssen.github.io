@@ -1,7 +1,7 @@
 ---
 title: "Image Preprocessing and Hyperparameter Optimization on Pretrained Model MobileNetV2 in White Blood Cell Image Classification"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2023-05-01-mobilenet-white-blood-cell
 excerpt: 'This paper discusses the use of MobileNetV2 for white blood cell image classification.'
 date: 2023-05-01
