@@ -1,7 +1,7 @@
 ---
 title: "Corn Plant Disease Classification Based on Leaf using Residual Networks-9 Architecture"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2023-06-01-corn-disease-classification
 excerpt: 'This paper focuses on classifying corn plant diseases using a deep learning model.'
 date: 2023-06-01
