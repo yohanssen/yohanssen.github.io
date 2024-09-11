@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a doctoral student in the Optical Media Interface Laboratory, NAIST, and a research assistant in a related field. Also has experience in using some computer vision libraries and deep learning frameworks. The current research is to classify material from the voxel image using a convolutional neural network. The major research theme is developing a system that can classify a material from its optical properties by using a Single Photon Avalanche Diode (SPAD) camera, which is a specialized sensor that measures the depth or distance to an object by emitting a laser beam and measuring the time it returns (in picosecond time range).![image](https://github.com/user-attachments/assets/a64558cf-218a-4506-ae24-0a3453609754)
+Currently, I am a doctoral student in the Optical Media Interface Laboratory, NAIST, and a research assistant in a related field. Also has experience in using some computer vision libraries and deep learning frameworks. The current research is to classify material from the voxel image using a convolutional neural network. The major research theme is developing a system that can classify a material from its optical properties by using a Single Photon Avalanche Diode (SPAD) camera, which is a specialized sensor that measures the depth or distance to an object by emitting a laser beam and measuring the time it returns (in picosecond time range).
+![image](https://github.com/user-attachments/assets/a64558cf-218a-4506-ae24-0a3453609754)
 
 
 A data-driven personal website
