@@ -1,7 +1,7 @@
 ---
 title: "One-Shot Learning Batak Toba Character Recognition Using Siamese Neural Network"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2022-03-01-batak-toba-character-recognition
 excerpt: 'This paper explores the use of a Siamese Neural Network for Batak Toba character recognition.'
 date: 2022-03-01
